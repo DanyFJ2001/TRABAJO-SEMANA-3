@@ -1,6 +1,6 @@
 package inventario; // Declara que la clase pertenece al paquete inventario
 
-public class Producto { // Clase simple (registro heterogeneo) que agrupa los datos de un producto
+public class Producto { // Clase simple que agrupa los datos de un producto
     int id; // Codigo del producto de tipo entero
     String nombre; // Nombre del producto de tipo texto
 

@@ -10,6 +10,6 @@ public class NodoArbol { // Nodo del Arbol Binario de Busqueda ordenado por tota
         this.codigo = codigo; // Guarda el codigo del producto
         this.total = total; // Guarda el total semanal del producto
         this.izquierdo = null; // El nodo nuevo nace sin hijo izquierdo
-        this.derecho = null; // El nodo nuevo nace sin hijo derecho (es una hoja)
+        this.derecho = null; // El nodo nuevo nace sin hijo derecho 
     }
 }

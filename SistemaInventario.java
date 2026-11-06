@@ -3,7 +3,7 @@ package inventario; // Declara que la clase pertenece al paquete inventario
 import java.util.Locale; // Importa Locale para usar el punto como separador decimal
 import java.util.Scanner; // Importa Scanner para leer datos desde el teclado
 
-public class SistemaInventario { // Clase principal del Sistema de Inventario y Auditoria
+public class SistemaInventario { // Clase princpal del Sistema de Inventario y Auditoria
     static final int DIAS = 5; // Constante con los dias registrados (Lunes a Viernes)
     static final double UMBRAL_MINIMO = 500; // Umbral minimo de unidades para generar una alerta
 
